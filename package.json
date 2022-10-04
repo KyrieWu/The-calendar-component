@@ -1,0 +1,24 @@
+{
+  "name": "the-calendar-component",
+  "version": "1.0.0",
+  "description": "The calendar component",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyrieWu/The-calendar-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyrieWu/The-calendar-component/issues"
+  },
+  "homepage": "https://github.com/KyrieWu/The-calendar-component#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.55.0",
+    "vite": "^3.1.4"
+  }
+}
